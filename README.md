@@ -15,7 +15,7 @@ selecting ideal functions, predicting function numbers for test data, and visual
 
 ## Installation
 + **Clone the repository**
-git clone https://github.com/your-username/python-assignment.git
+git clone https://github.com/SMateko/python-assignment.git
 
 + **Install the required dependencies**
 pip install -r requirements.txt
